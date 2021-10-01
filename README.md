@@ -16,17 +16,15 @@
 - 📍 I’m From Belarus (Minsk)
 - 💻 3+ Years Experience in AEM Development
 
-[comment]: <> (### 🤝 Connect with me:)
+### 🤝 Connect with me:
 
-[comment]: <> (<div align="center">)
-
-[comment]: <> (    [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram])
-
-[comment]: <> (    [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin])
-
-[comment]: <> (    [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk])
-
-[comment]: <> (</div>)
+<div align="center">
+<img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+    <a href="https://www.linkedin.com/in/gvozdevalexsander/"></a>
+</img>
+<img alt="VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+</div>
 
 ---
 
