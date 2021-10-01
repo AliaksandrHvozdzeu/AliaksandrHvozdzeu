@@ -18,15 +18,23 @@
 
 ### 🤝 Connect with me:
 
-[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+
+---
+
+### Certificate:
+
+<img alt="adobe aem" src="https://img.shields.io/badge/adobe-aem-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
 
 ---
 
 ### 💻 Stack:
 
-<img alt="vs code" src="https://img.shields.io/badge/aem-FD2D2D.svg?&style=for-the-badge&logo=aem&logoColor=fff" />&nbsp;
+<img alt="adobe aem" src="https://img.shields.io/badge/adobe-aem-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
