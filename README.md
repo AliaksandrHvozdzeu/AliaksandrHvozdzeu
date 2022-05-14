@@ -1,4 +1,4 @@
-<img src="https://github.com/AliaksandrHvozdzeu/AliaksandrHvozdzeu/blob/main/assets/bk.gif">
+<img src="https://github.com/AliaksandrHvozdzeu/AliaksandrHvozdzeu/blob/main/assets/bk.jpg">
 
 <div align="center">
   <a href="https://github.com/AliaksandrHvozdzeu?tab=repositories&sort=stargazers">
