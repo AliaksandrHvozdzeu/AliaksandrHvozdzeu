@@ -69,3 +69,11 @@
 
 ---
 
+### 📄 Summary
+
+- Over 4 years of manufacturing experience with the latest versions of Adobe Experience Manager (AEM).
+- Production experience with AEM upgrade from 6.1 to the latest version.
+- Production experience with the following AEM areas: OSGi Components and Services development, Sling Models development, Components development, HTL, Clientlibs development, AEM Default widgets customization, Static and Dynamic templates development, Sling Resource Merger, JCR Queries development, and troubleshooting, Content fragments, and Experience fragments development, User Administration and ACLs, Dispatcher configuration, AEM Asset manager, AEM Tag manager, upgrading AEM with service packs and bug fixing after the upgrade.
+- Production experience using: Java8, Git, Maven, Gradle
+- Tools: Jira, Atlassian, Confluence, Jenkins, Stash, GitHub, FishEye, SonarQube, SonarCloud, Apache SOLR, AWS Queue, Putty, Postman, Swagger, Docker, Chef, Bamboo, AWS Lambda, AWS CloudWatch, AWS Secrets, Varnish, Nginx
+- Good team player, fast learner, and self-managing developer, always ready to help anyone when needed, open for suggestions and advice, and good communication skills.
