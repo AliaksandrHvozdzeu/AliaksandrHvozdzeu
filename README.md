@@ -20,7 +20,6 @@
 
 <a href="https://www.instagram.com/aleksandr.gvozdev/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gvozdevalexsander/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://vk.com/a.gvozdev86"><img src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a>
 
 ---
 
