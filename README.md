@@ -11,10 +11,10 @@
 
 ### Hi all, I'm Aliaksandr - 👋 
 
-## I'm a AEM Developer!
+## I'm an AEM Developer!
 
 - 📍 I’m From Belarus (Minsk)
-- 💻 3+ Years Experience in AEM Development
+- 💻 4+ Years Experience in AEM Development
 
 ### 🤝 Connect with me:
 
