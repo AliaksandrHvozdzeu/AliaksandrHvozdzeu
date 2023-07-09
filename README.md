@@ -13,7 +13,7 @@
 
 ## I'm an AEM Developer!
 
-- 📍 I’m From Belarus (Minsk)
+- 📍 My current location is Vilnius, Lithuania
 - 💻 4+ Years Experience in AEM Development
 
 ### 🤝 Connect with me:
