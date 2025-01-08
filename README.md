@@ -71,7 +71,7 @@
 
 ### 📄 Summary
 
-- Over 5 years of manufacturing experience with the latest versions of Adobe Experience Manager (AEM).
+- Over 6 years of manufacturing experience with the latest versions of Adobe Experience Manager (AEM).
 - Production experience with AEM upgrade from 6.1 to the latest version.
 - Production experience with the following AEM areas: OSGi Components and Services development, Sling Models development, Components development, HTL, Clientlibs development, AEM Default widgets customization, Static and Dynamic templates development, Sling Resource Merger, JCR Queries development, and troubleshooting, Content fragments, and Experience fragments development, User Administration and ACLs, Dispatcher configuration, AEM Asset manager, AEM Tag manager, upgrading AEM with service packs and bug fixing after the upgrade.
 - Production experience using: Java8, Git, Maven, Gradle
