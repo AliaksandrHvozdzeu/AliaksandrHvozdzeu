@@ -14,7 +14,7 @@
 ## I'm an AEM Developer!
 
 - 📍 My current location is Vilnius, Lithuania
-- 💻 4+ Years Experience in AEM Development
+- 💻 6+ Years Experience in AEM Development
 
 ### 🤝 Connect with me:
 
